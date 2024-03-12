@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://img.freepik.com/free-photo/online-message-blog-chat-communication-envelop-graphic-icon-concept_53876-139717.jpg",
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_T41Gd021YhTNmHt9ciCifM12nwyKjaopHq_1UX9oZZut2dlq_rVEWWhzodxCxuniaM&usqp=CAU",
+    "posted_date": "2024-03-12",
+    "reading_time": "45",
+    "hashtag": "#fiction #classic"
+  },
+  {
+    "id": "2",
+    "cover": "https://img.freepik.com/free-photo/blog-website-development-data-network-concept_53876-125055.jpg",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZliiAX9l2HC1YBzOV9SdXU5PW2iXcZdqXhNTDU4AlLMh_O9yDC1GstN5s18pXTXTGo18&usqp=CAU",
+    "posted_date": "2024-03-11",
+    "reading_time": "60",
+    "hashtag": "#fiction #classic #romance"
+  },
+  {
+    "id": "3",
+    "cover": "https://thumbs.dreamstime.com/b/blogging-blog-word-coder-coding-using-laptop-page-keyboard-notebook-blogger-internet-computer-marketing-opinion-interface-layout-80864637.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5937rkirE4kBwIrQm7J0bSAjdWwHrUV6zTho-NU7fDPWc3ps6F4MDdg9J4RSIBaJbaTo&usqp=CAU",
+    "posted_date": "2024-03-10",
+    "reading_time": "55",
+    "hashtag": "#fiction #classic #socialjustice"
+  },
+  {
+    "id": "4",
+    "cover": "https://img.freepik.com/free-photo/business-women-signature-document_1388-90.jpg?w=996&t=st=1710263822~exp=1710264422~hmac=24bd15a54ced5cbb93c5b728bdc8fe5f6b2fb5c53077bcecfea7c29dbd4ddf6b",
+    "title": "1984",
+    "author": "George Orwell",
+    "author_img": "https://cdn-icons-png.flaticon.com/512/3671/3671179.png",
+    "posted_date": "2024-03-09",
+    "reading_time": "50",
+    "hashtag": "#fiction #dystopian"
+  },
+  {
+    "id": "5",
+    "cover": "https://img.freepik.com/free-photo/electronic-device-table_144627-8550.jpg?t=st=1710263822~exp=1710264422~hmac=bf6a1fac2ee035fa451a9d74532694597ca187bd7d3325039f6cf1da2eae753e",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "author_img": "https://cdn-icons-png.flaticon.com/512/1995/1995571.png",
+    "posted_date": "2024-03-08",
+    "reading_time": "65",
+    "hashtag": "#fiction #classic #romance"
+  }
+]
